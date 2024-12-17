@@ -1,4 +1,4 @@
-# Birthday-Wisher-Automation
+# Birthday-Wisher-Automation 🎉🎂
 
 ## Project Description
 This project is a simple Python script that automatically sends personalized birthday wishes via email to individuals whose birthdays match the current date. The script reads data from a CSV file containing recipient details (name, email, date, and month of birth), customizes a letter template, and sends the message using an SMTP email service like Gmail.
