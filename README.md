@@ -25,8 +25,8 @@ This project is a simple Python script that automatically sends personalized bir
    - data.csv
    ## The CSV file containing recipient details:
       name,email,date,month
-      david,example1@gmail.com,16,6
-      john,example2@gmail.com,17,6
+      Bala,example1@gmail.com,16,6
+      Murali,example2@gmail.com,17,6
 
    - name: Recipient's name.
 
